@@ -1,11 +1,26 @@
-### Hello, I'm Sangjun Moon! 👋
-----
+## Hi there  👋
+
+Hello, I'm Sangjun Moon!
 
 I am statistical analyst who interested in data science. Especially, I have huge interest in convex optimization, neural networks, machine learning, and ranking probability model.
 
 If you want to contact me, please leave me a message! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sangjun-moon-357457188/)](https://www.linkedin.com/in/sangjun-moon-357457188/)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msj5589@gmail.com)](mailto:msj5589@gmail.com)[![Github.io](http://img.shields.io/badge/-Github.io-black?style=flat-square&logo=github&link=https://monster-moon.github.io/)](https://monster-moon.github.io/)
+
+----
+### Experience
+
+##### JUVIS,  researcher
+- Customer-tailored behavioral recommendation research [2020.11 - 2021.03]
+- Data Mining Advancement Research [2020.02 - 2020.04]
+- Data mining research for AI consulting [2018.01 - 2018.06]
+
+##### Neighbor system, researcher
+- Analysis of vehicle driving habits through C-ITS analysis [2019.01 - 2019.06]
+
+##### Security Management Research Institute, researcher
+- Text mining research to discover promising future technologies [2017.04 - 2017.11]
 
 ----
 ### Publications 📖
